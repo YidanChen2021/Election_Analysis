@@ -35,6 +35,6 @@ A election result summary is attached below for your reference.
 ![Election Result Summary](https://github.com/YidanChen2021/Election_Analysis/blob/6b8e4f0bbf6d5e443430e75dbe5930391ce1ff2b/Resources/Election%20Result%20Summary.png)
   
 ## Election Audit Summay
-
+As indicated above, the script of this analysis provides the results of 369,711 votes and a user friendly summary for readers to understand. The script can be modified for a larger scale election, including provincial or federal level. We can change the county name to cities or provinces to provide election results by territory. On the other side, we can use nest if to run a deeper analysis to see the percentage of total votes of each candidate in different region. During federal election, this will help each party understand their strong and weak area. 
 
  
