@@ -32,7 +32,7 @@ The analysis of the election show that:
 * The county Denver got the highest votes of 306,055, which was 82.8% of the total vote.
 
 A election result summary is attached below for your reference.  
-![Election Result Summary](Resources/Election Result Summary.png)
+![Election Result Summary](https://github.com/YidanChen2021/Election_Analysis/blob/6b8e4f0bbf6d5e443430e75dbe5930391ce1ff2b/Resources/Election%20Result%20Summary.png)
   
 ## Election Audit Summay
 
