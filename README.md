@@ -31,8 +31,8 @@ The analysis of the election show that:
   - Arapahoe got 24,802 number of votes and 6.7% of the total vote.
 * The county Denver got the highest votes of 306,055, which was 82.8% of the total vote.
 
-A election result summary is attached below for your reference.
-![Election Result Summary.png](Resources/Election Result Summary.png)
+A election result summary is attached below for your reference.  
+![Election Result Summary](Resources/Election Result Summary.png)
   
 ## Election Audit Summay
 
